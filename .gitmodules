@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "epistasis"]
+	path = epistasis
+	url = https://github.com/cran/epistasis
+	shallow = true
+	registered = true
+[submodule "netgwas"]
+	path = netgwas
+	url = https://github.com/cran/netgwas
+	shallow = true
+	registered = true
+[submodule "netShiny"]
+	path = netShiny
+	url = https://github.com/cran/netShiny
+	shallow = true
+	registered = true
+[submodule "nutriNetwork"]
+	path = nutriNetwork
+	url = https://github.com/cran/nutriNetwork
+	shallow = true
+	registered = true
+[submodule "pcgen"]
+	path = pcgen
+	url = https://github.com/cran/pcgen
+	shallow = true
+	registered = true
