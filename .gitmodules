@@ -5,12 +5,12 @@
 [submodule "epistasis"]
 	path = epistasis
 	url = https://github.com/cran/epistasis
-[submodule "netgwas"]
-	path = netgwas
-	url = https://github.com/cran/netgwas
 [submodule "netShiny"]
 	path = netShiny
 	url = https://github.com/cran/netShiny
+[submodule "netgwas"]
+	path = netgwas
+	url = https://github.com/cran/netgwas
 [submodule "nutriNetwork"]
 	path = nutriNetwork
 	url = https://github.com/cran/nutriNetwork
