@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "epistasis"]
-	path = epistasis
-	url = https://github.com/cran/epistasis
 [submodule "netShiny"]
 	path = netShiny
 	url = https://github.com/cran/netShiny
