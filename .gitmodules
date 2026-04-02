@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "netShiny"]
-	path = netShiny
-	url = https://github.com/cran/netShiny
-[submodule "netgwas"]
-	path = netgwas
-	url = https://github.com/cran/netgwas
-[submodule "nutriNetwork"]
-	path = nutriNetwork
-	url = https://github.com/cran/nutriNetwork
 [submodule "pcgen"]
 	path = pcgen
 	url = https://github.com/cran/pcgen
